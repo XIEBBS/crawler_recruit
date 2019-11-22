@@ -1,5 +1,5 @@
 pip install openpyxl
 pip install pyexcel-xlsx
 pip install pyexcel-xlsxw
-pip install Facker
+pip install Faker
 python recruitWebsite.py
